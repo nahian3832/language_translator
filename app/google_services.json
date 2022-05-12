@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1065966069538",
+    "project_id": "translator-a3210",
+    "storage_bucket": "translator-a3210.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065966069538:android:63f791d131e650c9ea677b",
+        "android_client_info": {
+          "package_name": "com.crisisstudio.languagetranslator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065966069538-e2qi15u5bp5edl7rtk0q65dn556r56cq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw2FqXcEcmAe1BLHTSnYmuFoOGKK3fxzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065966069538-e2qi15u5bp5edl7rtk0q65dn556r56cq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
